@@ -4,15 +4,15 @@
 
 ### TABLE OF CONTENTS
 
-1. [Goal](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/README.md#goal)
-2. [Pre-Requisites](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/README.md#pre-requisites)
-3. [Pre-Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/README.md#pre-deployment)
-4. [VPC Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/README.md#vpc-deployment)
-5. [Maven (Build)](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/README.md#maven-build)
-6. [3-Tier Architecture](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/README.md#3-tier-architecture)
-7. [Application Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/README.md#application-deployment)
-8. [Post-Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/README.md#post-deployment)
-9. [Validation](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/README.md#validation)
+1. [Goal](https://github.com/franklinfoko/franklin-devops-projects/blob/main/project1/README.md#goal)
+2. [Pre-Requisites](https://github.com/franklinfoko/franklin-devops-projects/blob/main/project1/README.md#pre-requisites)
+3. [Pre-Deployment](https://github.com/franklinfoko/franklin-devops-projects/blob/main/project1/README.md#pre-deployment)
+4. [VPC Deployment](https://github.com/franklinfoko/franklin-devops-projects/blob/main/project1/README.md#vpc-deployment)
+5. [Maven (Build)](https://github.com/franklinfoko/franklin-devops-projects/blob/main/project1/README.md#maven-build)
+6. [3-Tier Architecture](https://github.com/franklinfoko/franklin-devops-projects/blob/main/project1/README.md#3-tier-architecture)
+7. [Application Deployment](https://github.com/franklinfoko/franklin-devops-projects/blob/main/project1/README.md#application-deployment)
+8. [Post-Deployment](https://github.com/franklinfoko/franklin-devops-projects/blob/main/project1/README.md#post-deployment)
+9. [Validation](https://github.com/franklinfoko/franklin-devops-projects/blob/main/project1/README.md#validation)
 
 ---
 
@@ -28,7 +28,7 @@ The primary objective of this project is to deploy a scalable, highly available,
 ## Pre-Requisites
 
 1. **AWS Free Tier Account**: Sign up for an [Amazon Web Services (AWS) Free Tier account](https://aws.amazon.com/free/) to use various AWS services for deployment.
-2. **GitHub Account and Repository**: Create a [GitHub account](https://github.com/join) and a repository to host your Java source code. Migrate the provided Java source code from the [Java-Login-App repository](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/Java-Login-App) to your own GitHub repository.
+2. **GitHub Account and Repository**: Create a [GitHub account](https://github.com/join) and a repository to host your Java source code. Migrate the provided Java source code from the [Java-Login-App repository](https://github.com/franklinfoko/franklin-devops-projects/blob/main/project1/Java-Login-App) to your own GitHub repository.
 3. **SonarCloud Account**: Create an account on [SonarCloud](https://sonarcloud.io/) for static code analysis and quality checks.
 4. **JFrog Cloud Account**: Create an account on [JFrog Cloud](https://jfrog.com/start-free/) to manage your artifacts.
 
